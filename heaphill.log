@@ -1717,3 +1717,1612 @@ Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
 Compacting texture/material tables...
 Reduced 1585 texinfos to 967
 Reduced 29 texdatas to 22 (790 bytes to 555)
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_player_start (-5384.00 -992.00 -1863.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 72 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (395771 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1585 texinfos to 988
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+LoadPortals: couldn't read c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 72 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (395787 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1585 texinfos to 968
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+1506 portalclusters
+3874 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4..
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 154 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (395739 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1585 texinfos to 965
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+1006 portalclusters
+2528 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 154 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (395691 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1585 texinfos to 967
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+1015 portalclusters
+2578 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 182 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (395691 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1585 texinfos to 967
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 799 portalclusters
+1953 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-2720.00 4724.00 -1248.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 200 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (395691 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 200 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (395659 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1585 texinfos to 967
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 693 portalclusters
+1675 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 337 visible clusters (0.16%)
+Total clusters visible: 216176
+Average clusters visible: 311
+Building PAS...
+Average clusters audible: 573
+visdatasize:110590  compressed from 121968
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+8299 faces
+5759042 square feet [829302016.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8299 patches before subdivision
+474095 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 238 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (395987 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1585 texinfos to 970
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 652 portalclusters
+1570 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 274 visible clusters (0.14%)
+Total clusters visible: 195684
+Average clusters visible: 300
+Building PAS...
+Average clusters audible: 536
+visdatasize:98058  compressed from 114752
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+16 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+8233 faces
+5764541 square feet [830093952.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8233 patches before subdivision
+474547 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 238 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (395939 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1585 texinfos to 969
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 635 portalclusters
+1505 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 213 visible clusters (0.11%)
+Total clusters visible: 186048
+Average clusters visible: 292
+Building PAS...
+Average clusters audible: 519
+visdatasize:93776  compressed from 101600
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+14 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+8216 faces
+5790143 square feet [833780608.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8216 patches before subdivision
+477948 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 242 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (391691 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1576 texinfos to 960
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 621 portalclusters
+1477 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 214 visible clusters (0.12%)
+Total clusters visible: 177069
+Average clusters visible: 285
+Building PAS...
+Average clusters audible: 511
+visdatasize:89315  compressed from 99360
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+8194 faces
+5792833 square feet [834167936.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+8194 patches before subdivision
+zero area child patch
+475664 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 125919449, max 2961
+transfer lists: 960.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.3472 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  12/1024          576/49152    ( 1.2%) 
+brushes               1096/8192        13152/98304    (13.4%) 
+brushsides            7173/65536       57384/524288   (10.9%) 
+planes                3088/65536       61760/1310720  ( 4.7%) 
+vertexes             11866/65536      142392/786432   (18.1%) 
+nodes                 1677/65536       53664/2097152  ( 2.6%) 
+texinfos               960/12288       69120/884736   ( 7.8%) 
+texdata                 22/2048          704/65536    ( 1.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 8194/65536      458864/3670016  (12.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2930/65536      164080/3670016  ( 4.5%) 
+leaves                1690/65536       54080/2097152  ( 2.6%) 
+leaffaces            10241/65536       20482/131072   (15.6%) 
+leafbrushes           2922/65536        5844/131072   ( 4.5%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            50101/512000     200404/2048000  ( 9.8%) 
+edges                29465/256000     117860/1024000  (11.5%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            652/32768        6520/327680   ( 2.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10362/65536       20724/131072   (15.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]    34990084/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       89315/16777216 ( 0.5%) 
+entdata               [variable]        8168/393216   ( 2.1%) 
+LDR ambient table     1690/65536        6760/262144   ( 2.6%) 
+HDR ambient table     1690/65536        6760/262144   ( 2.6%) 
+LDR leaf ambient       710/65536       19880/1835008  ( 1.1%) 
+HDR leaf ambient      1690/65536       47320/1835008  ( 2.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      213669/0        ( 0.0%) 
+physics               [variable]      391691/4194304  ( 9.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 21998
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 minutes, 25 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 240 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (373171 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1606 texinfos to 973
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 619 portalclusters
+1470 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 270 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (375211 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1611 texinfos to 973
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 601 portalclusters
+1446 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 225 visible clusters (0.14%)
+Total clusters visible: 163216
+Average clusters visible: 271
+Building PAS...
+Average clusters audible: 509
+visdatasize:86438  compressed from 96160
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+8181 faces
+5834183 square feet [840122432.00 square inches]
+0 Displacements
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 270 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (375195 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1611 texinfos to 973
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 601 portalclusters
+1446 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 298 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (377291 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1618 texinfos to 973
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 596 portalclusters
+1446 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 296 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (378011 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1621 texinfos to 976
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 595 portalclusters
+1442 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 306 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (369211 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1604 texinfos to 973
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 552 portalclusters
+1358 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 228 visible clusters (0.15%)
+Total clusters visible: 155818
+Average clusters visible: 282
+Building PAS...
+Average clusters audible: 516
+visdatasize:74512  compressed from 79488
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+7956 faces
+5701258 square feet [820981184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7956 patches before subdivision
+458978 patches after subdivision
+0 direct lights
+0...1...2...3..
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-2720.00 4724.00 -1248.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 302 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1582 texinfos to 972
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+LoadPortals: couldn't read c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 302 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1582 texinfos to 964
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 517 portalclusters
+1277 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 144 visible clusters (0.10%)
+Total clusters visible: 139771
+Average clusters visible: 270
+Building PAS...
+Average clusters audible: 484
+visdatasize:66298  compressed from 74448
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+7818 faces
+5641073 square feet [812314496.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7818 patches before subdivision
+451908 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357171 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1582 texinfos to 964
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (356907 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1582 texinfos to 964
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (356907 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_borealis/bluebarrel001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_borealis/bluebarrel001.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1582 texinfos to 964
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 107 visible clusters (0.08%)
+Total clusters visible: 138750
+Average clusters visible: 275
+Building PAS...
+Average clusters audible: 479
+visdatasize:62331  compressed from 64384
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+7809 faces
+5640147 square feet [812181184.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7809 patches before subdivision
+452209 patches after subdivision
+0 direct lights
+0...1...2...3...4...5
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357461 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_borealis/bluebarrel001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_borealis/bluebarrel001.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1590 texinfos to 968
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 109 visible clusters (0.08%)
+Total clusters visible: 138752
+Average clusters visible: 275
+Building PAS...
+Average clusters audible: 479
+visdatasize:62331  compressed from 64384
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+7815 faces
+5640211 square feet [812190400.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7815 patches before subdivision
+452235 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357461 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_borealis/bluebarrel001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_borealis/bluebarrel001.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1590 texinfos to 968
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 107 visible clusters (0.08%)
+Total clusters visible: 138750
+Average clusters visible: 275
+Building PAS...
+Average clusters audible: 479
+visdatasize:62331  compressed from 64384
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+7815 faces
+5640211 square feet [812190400.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7815 patches before subdivision
+452235 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3.
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357461 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_borealis/bluebarrel001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_borealis/bluebarrel001.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1590 texinfos to 968
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 107 visible clusters (0.08%)
+Total clusters visible: 138750
+Average clusters visible: 275
+Building PAS...
+Average clusters audible: 479
+visdatasize:62331  compressed from 64384
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+7815 faces
+5640211 square feet [812190400.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+7815 patches before subdivision
+452235 patches after subdivision
+0 direct lights
+0...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357461 bytes)
+Error! prop_static using model "models/props_borealis/bluebarrel001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_borealis/bluebarrel001.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1590 texinfos to 968
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 109 visible clusters (0.08%)
+Total clusters visible: 138752
+Average clusters visible: 275
+Building PAS...
+Average clusters audible: 479
+visdatasize:62331  compressed from 64384
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357461 bytes)
+Error! prop_static using model "models/props_borealis/bluebarrel001.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_borealis/bluebarrel001.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1590 texinfos to 968
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 314 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (357461 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1590 texinfos to 968
+Reduced 29 texdatas to 22 (790 bytes to 555)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 503 portalclusters
+1247 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5
