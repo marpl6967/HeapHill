@@ -10588,3 +10588,2389 @@ Level flags = 0
 Total triangle count: 7601
 Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
 11 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 110 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (191725 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 867 texinfos to 393
+Reduced 35 texdatas to 28 (924 bytes to 697)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 433 portalclusters
+1223 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 286 visible clusters (0.41%)
+Total clusters visible: 69421
+Average clusters visible: 160
+Building PAS...
+Average clusters audible: 410
+visdatasize:42115  compressed from 48496
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2879 faces
+1501055 square feet [216152032.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2879 patches before subdivision
+137851 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28244570, max 1002
+transfer lists: 215.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1047 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  32/1024         1536/49152    ( 3.1%) 
+brushes                537/8192         6444/98304    ( 6.6%) 
+brushsides            3390/65536       27120/524288   ( 5.2%) 
+planes                1652/65536       33040/1310720  ( 2.5%) 
+vertexes              4755/65536       57060/786432   ( 7.3%) 
+nodes                 1082/65536       34624/2097152  ( 1.7%) 
+texinfos               393/12288       28296/884736   ( 3.2%) 
+texdata                 28/2048          896/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2879/65536      161224/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1331/65536       74536/3670016  ( 2.0%) 
+leaves                1115/65536       35680/2097152  ( 1.7%) 
+leaffaces             4010/65536        8020/131072   ( 6.1%) 
+leafbrushes           1137/65536        2274/131072   ( 1.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            18695/512000      74780/2048000  ( 3.7%) 
+edges                10912/256000      43648/1024000  ( 4.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            361/32768        3610/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5571/65536       11142/131072   ( 8.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4350036/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       42115/16777216 ( 0.3%) 
+entdata               [variable]      140247/393216   (35.7%) 
+LDR ambient table     1115/65536        4460/262144   ( 1.7%) 
+HDR ambient table     1115/65536        4460/262144   ( 1.7%) 
+LDR leaf ambient       659/65536       18452/1835008  ( 1.0%) 
+HDR leaf ambient      1115/65536       31220/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213315/0        ( 0.0%) 
+physics               [variable]      191725/4194304  ( 4.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7613
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+11 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 110 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (191725 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 867 texinfos to 393
+Reduced 35 texdatas to 28 (924 bytes to 697)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 433 portalclusters
+1223 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 279 visible clusters (0.40%)
+Total clusters visible: 69418
+Average clusters visible: 160
+Building PAS...
+Average clusters audible: 410
+visdatasize:42115  compressed from 48496
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2879 faces
+1501051 square feet [216151424.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2879 patches before subdivision
+137771 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 28227387, max 1002
+transfer lists: 215.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1126 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  32/1024         1536/49152    ( 3.1%) 
+brushes                537/8192         6444/98304    ( 6.6%) 
+brushsides            3390/65536       27120/524288   ( 5.2%) 
+planes                1654/65536       33080/1310720  ( 2.5%) 
+vertexes              4755/65536       57060/786432   ( 7.3%) 
+nodes                 1082/65536       34624/2097152  ( 1.7%) 
+texinfos               393/12288       28296/884736   ( 3.2%) 
+texdata                 28/2048          896/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2879/65536      161224/3670016  ( 4.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1331/65536       74536/3670016  ( 2.0%) 
+leaves                1115/65536       35680/2097152  ( 1.7%) 
+leaffaces             4010/65536        8020/131072   ( 6.1%) 
+leafbrushes           1137/65536        2274/131072   ( 1.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            18695/512000      74780/2048000  ( 3.7%) 
+edges                10912/256000      43648/1024000  ( 4.3%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            361/32768        3610/327680   ( 1.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5571/65536       11142/131072   ( 8.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     4350036/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       42115/16777216 ( 0.3%) 
+entdata               [variable]      140247/393216   (35.7%) 
+LDR ambient table     1115/65536        4460/262144   ( 1.7%) 
+HDR ambient table     1115/65536        4460/262144   ( 1.7%) 
+LDR leaf ambient       659/65536       18452/1835008  ( 1.0%) 
+HDR leaf ambient      1115/65536       31220/1835008  ( 1.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213315/0        ( 0.0%) 
+physics               [variable]      191725/4194304  ( 4.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 7613
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+11 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 454 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (270597 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 917 texinfos to 428
+Reduced 36 texdatas to 28 (972 bytes to 697)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+1 second elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 459 portalclusters
+1312 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 464 visible clusters (0.54%)
+Total clusters visible: 85323
+Average clusters visible: 185
+Building PAS...
+Average clusters audible: 437
+visdatasize:48477  compressed from 58752
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+3955 faces
+3 degenerate faces
+1682488 square feet [242278368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3952 patches before subdivision
+163292 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 40243911, max 1190
+transfer lists: 307.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0863 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  32/1024         1536/49152    ( 3.1%) 
+brushes                736/8192         8832/98304    ( 9.0%) 
+brushsides            5595/65536       44760/524288   ( 8.5%) 
+planes                4182/65536       83640/1310720  ( 6.4%) 
+vertexes              6175/65536       74100/786432   ( 9.4%) 
+nodes                 1128/65536       36096/2097152  ( 1.7%) 
+texinfos               428/12288       30816/884736   ( 3.5%) 
+texdata                 28/2048          896/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3955/65536      221480/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2257/65536      126392/3670016  ( 3.4%) 
+leaves                1161/65536       37152/2097152  ( 1.8%) 
+leaffaces             5790/65536       11580/131072   ( 8.8%) 
+leafbrushes           1523/65536        3046/131072   ( 2.3%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            27153/512000     108612/2048000  ( 5.3%) 
+edges                15349/256000      61396/1024000  ( 6.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            419/32768        4190/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6423/65536       12846/131072   ( 9.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6654612/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       48477/16777216 ( 0.3%) 
+entdata               [variable]      140247/393216   (35.7%) 
+LDR ambient table     1161/65536        4644/262144   ( 1.8%) 
+HDR ambient table     1161/65536        4644/262144   ( 1.8%) 
+LDR leaf ambient       685/65536       19180/1835008  ( 1.0%) 
+HDR leaf ambient      1161/65536       32508/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213642/0        ( 0.0%) 
+physics               [variable]      270597/4194304  ( 6.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10159
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+18 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 446 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (290565 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 942 texinfos to 450
+Reduced 38 texdatas to 29 (1060 bytes to 731)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 519 portalclusters
+1627 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 882 visible clusters (0.75%)
+Total clusters visible: 118167
+Average clusters visible: 227
+Building PAS...
+Average clusters audible: 499
+visdatasize:61947  compressed from 74736
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4322 faces
+3 degenerate faces
+1683965 square feet [242491072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4319 patches before subdivision
+163733 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 45104874, max 1437
+transfer lists: 344.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1084 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  34/1024         1632/49152    ( 3.3%) 
+brushes                751/8192         9012/98304    ( 9.2%) 
+brushsides            6147/65536       49176/524288   ( 9.4%) 
+planes                5254/65536      105080/1310720  ( 8.0%) 
+vertexes              6594/65536       79128/786432   (10.1%) 
+nodes                 1217/65536       38944/2097152  ( 1.9%) 
+texinfos               450/12288       32400/884736   ( 3.7%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4322/65536      242032/3670016  ( 6.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2628/65536      147168/3670016  ( 4.0%) 
+leaves                1252/65536       40064/2097152  ( 1.9%) 
+leaffaces             6819/65536       13638/131072   (10.4%) 
+leafbrushes           1914/65536        3828/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            30256/512000     121024/2048000  ( 5.9%) 
+edges                16992/256000      67968/1024000  ( 6.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            427/32768        4270/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6678/65536       13356/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6724468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       61947/16777216 ( 0.4%) 
+entdata               [variable]      141775/393216   (36.1%) 
+LDR ambient table     1252/65536        5008/262144   ( 1.9%) 
+HDR ambient table     1252/65536        5008/262144   ( 1.9%) 
+LDR leaf ambient       757/65536       21196/1835008  ( 1.2%) 
+HDR leaf ambient      1252/65536       35056/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      290565/4194304  ( 6.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11025
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+21 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 446 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (290565 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 942 texinfos to 450
+Reduced 38 texdatas to 29 (1060 bytes to 731)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 519 portalclusters
+1627 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 882 visible clusters (0.75%)
+Total clusters visible: 118167
+Average clusters visible: 227
+Building PAS...
+Average clusters audible: 499
+visdatasize:61947  compressed from 74736
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4322 faces
+3 degenerate faces
+1683965 square feet [242491072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4319 patches before subdivision
+163733 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 45104874, max 1437
+transfer lists: 344.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1425 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  34/1024         1632/49152    ( 3.3%) 
+brushes                752/8192         9024/98304    ( 9.2%) 
+brushsides            6153/65536       49224/524288   ( 9.4%) 
+planes                5262/65536      105240/1310720  ( 8.0%) 
+vertexes              6602/65536       79224/786432   (10.1%) 
+nodes                 1217/65536       38944/2097152  ( 1.9%) 
+texinfos               450/12288       32400/884736   ( 3.7%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4322/65536      242032/3670016  ( 6.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2628/65536      147168/3670016  ( 4.0%) 
+leaves                1252/65536       40064/2097152  ( 1.9%) 
+leaffaces             6819/65536       13638/131072   (10.4%) 
+leafbrushes           1915/65536        3830/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            30256/512000     121024/2048000  ( 5.9%) 
+edges                16992/256000      67968/1024000  ( 6.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            427/32768        4270/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6678/65536       13356/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6724468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       61947/16777216 ( 0.4%) 
+entdata               [variable]      141775/393216   (36.1%) 
+LDR ambient table     1252/65536        5008/262144   ( 1.9%) 
+HDR ambient table     1252/65536        5008/262144   ( 1.9%) 
+LDR leaf ambient       757/65536       21196/1835008  ( 1.2%) 
+HDR leaf ambient      1252/65536       35056/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      290565/4194304  ( 6.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11025
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+21 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 446 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (290565 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 942 texinfos to 450
+Reduced 38 texdatas to 29 (1060 bytes to 731)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 519 portalclusters
+1627 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 882 visible clusters (0.75%)
+Total clusters visible: 118167
+Average clusters visible: 227
+Building PAS...
+Average clusters audible: 499
+visdatasize:61947  compressed from 74736
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4322 faces
+3 degenerate faces
+1683965 square feet [242491072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4319 patches before subdivision
+163733 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 45104874, max 1437
+transfer lists: 344.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0534 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  34/1024         1632/49152    ( 3.3%) 
+brushes                752/8192         9024/98304    ( 9.2%) 
+brushsides            6153/65536       49224/524288   ( 9.4%) 
+planes                5262/65536      105240/1310720  ( 8.0%) 
+vertexes              6602/65536       79224/786432   (10.1%) 
+nodes                 1217/65536       38944/2097152  ( 1.9%) 
+texinfos               450/12288       32400/884736   ( 3.7%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4322/65536      242032/3670016  ( 6.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2628/65536      147168/3670016  ( 4.0%) 
+leaves                1252/65536       40064/2097152  ( 1.9%) 
+leaffaces             6819/65536       13638/131072   (10.4%) 
+leafbrushes           1915/65536        3830/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            30256/512000     121024/2048000  ( 5.9%) 
+edges                16992/256000      67968/1024000  ( 6.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            427/32768        4270/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6678/65536       13356/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6724468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       61947/16777216 ( 0.4%) 
+entdata               [variable]      141772/393216   (36.1%) 
+LDR ambient table     1252/65536        5008/262144   ( 1.9%) 
+HDR ambient table     1252/65536        5008/262144   ( 1.9%) 
+LDR leaf ambient       757/65536       21196/1835008  ( 1.2%) 
+HDR leaf ambient      1252/65536       35056/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      290565/4194304  ( 6.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11025
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+20 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 446 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (290565 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 942 texinfos to 450
+Reduced 38 texdatas to 29 (1060 bytes to 731)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+2 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 519 portalclusters
+1627 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 882 visible clusters (0.75%)
+Total clusters visible: 118167
+Average clusters visible: 227
+Building PAS...
+Average clusters audible: 499
+visdatasize:61947  compressed from 74736
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4322 faces
+3 degenerate faces
+1683965 square feet [242491072.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4319 patches before subdivision
+163733 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 45104874, max 1437
+transfer lists: 344.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0491 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  34/1024         1632/49152    ( 3.3%) 
+brushes                752/8192         9024/98304    ( 9.2%) 
+brushsides            6153/65536       49224/524288   ( 9.4%) 
+planes                5262/65536      105240/1310720  ( 8.0%) 
+vertexes              6602/65536       79224/786432   (10.1%) 
+nodes                 1217/65536       38944/2097152  ( 1.9%) 
+texinfos               450/12288       32400/884736   ( 3.7%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4322/65536      242032/3670016  ( 6.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2628/65536      147168/3670016  ( 4.0%) 
+leaves                1252/65536       40064/2097152  ( 1.9%) 
+leaffaces             6819/65536       13638/131072   (10.4%) 
+leafbrushes           1915/65536        3830/131072   ( 2.9%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            30256/512000     121024/2048000  ( 5.9%) 
+edges                16992/256000      67968/1024000  ( 6.6%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            427/32768        4270/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6678/65536       13356/131072   (10.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6724468/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       61947/16777216 ( 0.4%) 
+entdata               [variable]      141773/393216   (36.1%) 
+LDR ambient table     1252/65536        5008/262144   ( 1.9%) 
+HDR ambient table     1252/65536        5008/262144   ( 1.9%) 
+LDR leaf ambient       757/65536       21196/1835008  ( 1.2%) 
+HDR leaf ambient      1252/65536       35056/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      290565/4194304  ( 6.9%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11025
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+20 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-2644.00 4256.00 -1248.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 7680.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 6656.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 520 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (302365 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1009 texinfos to 476
+Reduced 39 texdatas to 31 (1088 bytes to 779)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+LoadPortals: couldn't read c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 520 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (302349 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1009 texinfos to 466
+Reduced 39 texdatas to 30 (1088 bytes to 759)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 567 portalclusters
+1836 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 696 visible clusters (0.57%)
+Total clusters visible: 121729
+Average clusters visible: 214
+Building PAS...
+Average clusters audible: 523
+visdatasize:71547  compressed from 81648
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4386 faces
+3 degenerate faces
+1702913 square feet [245219568.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4383 patches before subdivision
+166215 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44564396, max 1414
+transfer lists: 340.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1152 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  35/1024         1680/49152    ( 3.4%) 
+brushes                777/8192         9324/98304    ( 9.5%) 
+brushsides            6366/65536       50928/524288   ( 9.7%) 
+planes                5468/65536      109360/1310720  ( 8.3%) 
+vertexes              6862/65536       82344/786432   (10.5%) 
+nodes                 1294/65536       41408/2097152  ( 2.0%) 
+texinfos               466/12288       33552/884736   ( 3.8%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4386/65536      245616/3670016  ( 6.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2715/65536      152040/3670016  ( 4.1%) 
+leaves                1330/65536       42560/2097152  ( 2.0%) 
+leaffaces             6984/65536       13968/131072   (10.7%) 
+leafbrushes           2001/65536        4002/131072   ( 3.1%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            31019/512000     124076/2048000  ( 6.1%) 
+edges                17610/256000      70440/1024000  ( 6.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            457/32768        4570/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7254/65536       14508/131072   (11.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6928040/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       71547/16777216 ( 0.4%) 
+entdata               [variable]      145394/393216   (37.0%) 
+LDR ambient table     1330/65536        5320/262144   ( 2.0%) 
+HDR ambient table     1330/65536        5320/262144   ( 2.0%) 
+LDR leaf ambient       816/65536       22848/1835008  ( 1.2%) 
+HDR leaf ambient      1330/65536       37240/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      302349/4194304  ( 7.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11310
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+21 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 624 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (303301 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1012 texinfos to 464
+Reduced 39 texdatas to 30 (1088 bytes to 759)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 508 portalclusters
+1537 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 388 visible clusters (0.42%)
+Total clusters visible: 91408
+Average clusters visible: 179
+Building PAS...
+Average clusters audible: 459
+visdatasize:57394  compressed from 65024
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4393 faces
+3 degenerate faces
+1704061 square feet [245384800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4390 patches before subdivision
+166432 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44746053, max 1417
+transfer lists: 341.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1453 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  35/1024         1680/49152    ( 3.4%) 
+brushes                781/8192         9372/98304    ( 9.5%) 
+brushsides            6390/65536       51120/524288   ( 9.8%) 
+planes                5476/65536      109520/1310720  ( 8.4%) 
+vertexes              6950/65536       83400/786432   (10.6%) 
+nodes                 1220/65536       39040/2097152  ( 1.9%) 
+texinfos               464/12288       33408/884736   ( 3.8%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4393/65536      246008/3670016  ( 6.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2713/65536      151928/3670016  ( 4.1%) 
+leaves                1256/65536       40192/2097152  ( 1.9%) 
+leaffaces             6162/65536       12324/131072   ( 9.4%) 
+leafbrushes           1589/65536        3178/131072   ( 2.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            31075/512000     124300/2048000  ( 6.1%) 
+edges                17700/256000      70800/1024000  ( 6.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            468/32768        4680/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7383/65536       14766/131072   (11.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6925324/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       57394/16777216 ( 0.3%) 
+entdata               [variable]      145394/393216   (37.0%) 
+LDR ambient table     1256/65536        5024/262144   ( 1.9%) 
+HDR ambient table     1256/65536        5024/262144   ( 1.9%) 
+LDR leaf ambient       757/65536       21196/1835008  ( 1.2%) 
+HDR leaf ambient      1256/65536       35168/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      303301/4194304  ( 7.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11360
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+21 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 624 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (303463 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1015 texinfos to 464
+Reduced 39 texdatas to 30 (1088 bytes to 759)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 505 portalclusters
+1520 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 382 visible clusters (0.42%)
+Total clusters visible: 91637
+Average clusters visible: 181
+Building PAS...
+Average clusters audible: 460
+visdatasize:56790  compressed from 64640
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4393 faces
+3 degenerate faces
+1704061 square feet [245384800.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4390 patches before subdivision
+166430 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44762536, max 1418
+transfer lists: 341.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.1119 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  36/1024         1728/49152    ( 3.5%) 
+brushes                781/8192         9372/98304    ( 9.5%) 
+brushsides            6390/65536       51120/524288   ( 9.8%) 
+planes                5488/65536      109760/1310720  ( 8.4%) 
+vertexes              6951/65536       83412/786432   (10.6%) 
+nodes                 1223/65536       39136/2097152  ( 1.9%) 
+texinfos               464/12288       33408/884736   ( 3.8%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4393/65536      246008/3670016  ( 6.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2713/65536      151928/3670016  ( 4.1%) 
+leaves                1260/65536       40320/2097152  ( 1.9%) 
+leaffaces             6155/65536       12310/131072   ( 9.4%) 
+leafbrushes           1584/65536        3168/131072   ( 2.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            31063/512000     124252/2048000  ( 6.1%) 
+edges                17694/256000      70776/1024000  ( 6.9%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            465/32768        4650/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7293/65536       14586/131072   (11.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6925448/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       56790/16777216 ( 0.3%) 
+entdata               [variable]      145901/393216   (37.1%) 
+LDR ambient table     1260/65536        5040/262144   ( 1.9%) 
+HDR ambient table     1260/65536        5040/262144   ( 1.9%) 
+LDR leaf ambient       761/65536       21308/1835008  ( 1.2%) 
+HDR leaf ambient      1260/65536       35280/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      303463/4194304  ( 7.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11348
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+21 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 618 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (303559 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1015 texinfos to 464
+Reduced 39 texdatas to 30 (1088 bytes to 759)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 363 portalclusters
+1074 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 322 visible clusters (0.53%)
+Total clusters visible: 60621
+Average clusters visible: 167
+Building PAS...
+Average clusters audible: 349
+visdatasize:34795  compressed from 34848
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4279 faces
+3 degenerate faces
+1707161 square feet [245831248.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4276 patches before subdivision
+165092 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 44247683, max 1414
+transfer lists: 337.6 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0720 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  36/1024         1728/49152    ( 3.5%) 
+brushes                781/8192         9372/98304    ( 9.5%) 
+brushsides            6393/65536       51144/524288   ( 9.8%) 
+planes                5496/65536      109920/1310720  ( 8.4%) 
+vertexes              6776/65536       81312/786432   (10.3%) 
+nodes                 1015/65536       32480/2097152  ( 1.5%) 
+texinfos               464/12288       33408/884736   ( 3.8%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4279/65536      239624/3670016  ( 6.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2712/65536      151872/3670016  ( 4.1%) 
+leaves                1052/65536       33664/2097152  ( 1.6%) 
+leaffaces             5719/65536       11438/131072   ( 8.7%) 
+leafbrushes           1602/65536        3204/131072   ( 2.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            30479/512000     121916/2048000  ( 6.0%) 
+edges                17487/256000      69948/1024000  ( 6.8%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            420/32768        4200/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6960/65536       13920/131072   (10.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6904720/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       34795/16777216 ( 0.2%) 
+entdata               [variable]      145208/393216   (36.9%) 
+LDR ambient table     1052/65536        4208/262144   ( 1.6%) 
+HDR ambient table     1052/65536        4208/262144   ( 1.6%) 
+LDR leaf ambient       619/65536       17332/1835008  ( 0.9%) 
+HDR leaf ambient      1052/65536       29456/1835008  ( 1.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      303559/4194304  ( 7.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10996
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+20 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 668 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (303559 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1011 texinfos to 464
+Reduced 39 texdatas to 30 (1088 bytes to 759)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 303 portalclusters
+ 906 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 315 visible clusters (0.70%)
+Total clusters visible: 44810
+Average clusters visible: 147
+Building PAS...
+Average clusters audible: 294
+visdatasize:24656  compressed from 24240
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4203 faces
+3 degenerate faces
+1711433 square feet [246446368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4200 patches before subdivision
+163908 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 43348340, max 1402
+transfer lists: 330.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0556 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  35/1024         1680/49152    ( 3.4%) 
+brushes                780/8192         9360/98304    ( 9.5%) 
+brushsides            6387/65536       51096/524288   ( 9.7%) 
+planes                5488/65536      109760/1310720  ( 8.4%) 
+vertexes              6734/65536       80808/786432   (10.3%) 
+nodes                  909/65536       29088/2097152  ( 1.4%) 
+texinfos               464/12288       33408/884736   ( 3.8%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4203/65536      235368/3670016  ( 6.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2698/65536      151088/3670016  ( 4.1%) 
+leaves                 945/65536       30240/2097152  ( 1.4%) 
+leaffaces             5371/65536       10742/131072   ( 8.2%) 
+leafbrushes           1563/65536        3126/131072   ( 2.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            30150/512000     120600/2048000  ( 5.9%) 
+edges                17366/256000      69464/1024000  ( 6.8%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            414/32768        4140/327680   ( 1.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6972/65536       13944/131072   (10.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     6908852/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       24656/16777216 ( 0.1%) 
+entdata               [variable]      144849/393216   (36.8%) 
+LDR ambient table      945/65536        3780/262144   ( 1.4%) 
+HDR ambient table      945/65536        3780/262144   ( 1.4%) 
+LDR leaf ambient       552/65536       15456/1835008  ( 0.8%) 
+HDR leaf ambient       945/65536       26460/1835008  ( 1.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      213987/0        ( 0.0%) 
+physics               [variable]      303559/4194304  ( 7.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 10847
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+20 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-2472.00 3560.50 -1453.50) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 7680.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 6656.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 800 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-2648.00 1632.00 -1820.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 7680.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 6656.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 800 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-2648.00 1632.00 -1820.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 7680.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 6656.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 800 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (-2648.00 1632.00 -1820.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 7680.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 6656.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 800 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_ladder_dismount (-2680.00 2056.00 -1848.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 7680.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 6656.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 5632.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 4608.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 3584.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 8192.0 32.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 800 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+Patching WVT material: maps/heaphill/nature/blendsandsand008b_antlion_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 800 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (311375 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_junk/ibeam01a_cluster01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/ibeam01a_cluster01.mdl"!
+10
+Compacting texture/material tables...
+Reduced 1044 texinfos to 479
+Reduced 41 texdatas to 31 (1150 bytes to 782)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+3 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 332 portalclusters
+ 952 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 361 visible clusters (0.76%)
+Total clusters visible: 47221
+Average clusters visible: 142
+Building PAS...
+Average clusters audible: 320
+visdatasize:29073  compressed from 31872
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+4318 faces
+7 degenerate faces
+1719425 square feet [247597328.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4311 patches before subdivision
+165617 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 43578841, max 1406
+transfer lists: 332.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0580 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  35/1024         1680/49152    ( 3.4%) 
+brushes                792/8192         9504/98304    ( 9.7%) 
+brushsides            6565/65536       52520/524288   (10.0%) 
+planes                5722/65536      114440/1310720  ( 8.7%) 
+vertexes              7050/65536       84600/786432   (10.8%) 
+nodes                  964/65536       30848/2097152  ( 1.5%) 
+texinfos               479/12288       34488/884736   ( 3.9%) 
+texdata                 31/2048          992/65536    ( 1.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4318/65536      241808/3670016  ( 6.6%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2757/65536      154392/3670016  ( 4.2%) 
+leaves                1000/65536       32000/2097152  ( 1.5%) 
+leaffaces             5497/65536       10994/131072   ( 8.4%) 
+leafbrushes           1597/65536        3194/131072   ( 2.4%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            30988/512000     123952/2048000  ( 6.1%) 
+edges                17898/256000      71592/1024000  ( 7.0%) 
+LDR worldlights          0/8192            0/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            447/32768        4470/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7503/65536       15006/131072   (11.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     7013072/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       29073/16777216 ( 0.2%) 
+entdata               [variable]      149968/393216   (38.1%) 
+LDR ambient table     1000/65536        4000/262144   ( 1.5%) 
+HDR ambient table     1000/65536        4000/262144   ( 1.5%) 
+LDR leaf ambient       581/65536       16268/1835008  ( 0.9%) 
+HDR leaf ambient      1000/65536       28000/1835008  ( 1.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1120     ( 0.1%) 
+pakfile               [variable]      214287/0        ( 0.0%) 
+physics               [variable]      311375/4194304  ( 7.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 11207
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+21 seconds elapsed
