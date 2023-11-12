@@ -20076,3 +20076,723 @@ reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
  325 portalclusters
 1141 numportals
 0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_physics_override (-11444.00 7880.00 -1829.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3224 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (507954 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1341 texinfos to 616
+Reduced 63 texdatas to 50 (1641 bytes to 1135)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+LoadPortals: couldn't read c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3224 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (507922 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1341 texinfos to 616
+Reduced 63 texdatas to 50 (1641 bytes to 1135)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 444 portalclusters
+1577 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 146 visible clusters (0.09%)
+Total clusters visible: 157905
+Average clusters visible: 355
+Building PAS...
+Average clusters audible: 443
+visdatasize:52721  compressed from 49728
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+3 minutes, 29 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+6100 faces
+29 degenerate faces
+979218 square feet [141007456.00 square inches]
+31 Displacements
+538128 Square Feet [77490472.00 Square Inches]
+6071 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+107859 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 26251447, max 1618
+transfer lists: 200.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(301502, 295026, 73174)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(42609, 41707, 9774)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(9234, 6517, 1479)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3179, 1121, 251)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1483, 220, 50)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(766, 46, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(410, 11, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(222, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(120, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(65, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(36, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(19, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0296 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  53/1024         2544/49152    ( 5.2%) 
+brushes               1299/8192        15588/98304    (15.9%) 
+brushsides           14525/65536      116200/524288   (22.2%) 
+planes               16536/65536      330720/1310720  (25.2%) 
+vertexes             11285/65536      135420/786432   (17.2%) 
+nodes                 1148/65536       36736/2097152  ( 1.8%) 
+texinfos               616/12288       44352/884736   ( 5.0%) 
+texdata                 50/2048         1600/65536    ( 2.4%) 
+dispinfos               31/0            5456/0        ( 0.0%) 
+disp_verts             831/0           16620/0        ( 0.0%) 
+disp_tris             1088/0            2176/0        ( 0.0%) 
+disp_lmsamples      192912/0          192912/0        ( 0.0%) 
+faces                 6100/65536      341600/3670016  ( 9.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4775/65536      267400/3670016  ( 7.3%) 
+leaves                1202/65536       38464/2097152  ( 1.8%) 
+leaffaces             8306/65536       16612/131072   (12.7%) 
+leafbrushes           2384/65536        4768/131072   ( 3.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            49288/512000     197152/2048000  ( 9.6%) 
+edges                28854/256000     115416/1024000  (11.3%) 
+LDR worldlights          2/8192          176/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            808/32768        8080/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         14286/65536       28572/131072   (21.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     8732676/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       52721/16777216 ( 0.3%) 
+entdata               [variable]      225735/393216   (57.4%) 
+LDR ambient table     1202/65536        4808/262144   ( 1.8%) 
+HDR ambient table     1202/65536        4808/262144   ( 1.8%) 
+LDR leaf ambient      5473/65536      153244/1835008  ( 8.4%) 
+HDR leaf ambient      1202/65536       33656/1835008  ( 1.8%) 
+occluders                2/0              80/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/922      ( 0.1%) 
+pakfile               [variable]      214918/0        ( 0.0%) 
+physics               [variable]      507922/4194304  (12.1%) 
+physics terrain       [variable]        4795/1048576  ( 0.5%) 
+
+Level flags = 0
+
+Total triangle count: 17732
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+43 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3224 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (507922 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1341 texinfos to 616
+Reduced 63 texdatas to 50 (1641 bytes to 1135)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 444 portalclusters
+1577 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 146 visible clusters (0.09%)
+Total clusters visible: 157905
+Average clusters visible: 355
+Building PAS...
+Average clusters audible: 443
+visdatasize:52721  compressed from 49728
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+3 minutes, 32 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+6100 faces
+29 degenerate faces
+979218 square feet [141007456.00 square inches]
+31 Displacements
+538128 Square Feet [77490472.00 Square Inches]
+6071 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+107859 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 26251447, max 1618
+transfer lists: 200.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(450826, 438689, 7334)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(63765, 62090, 881)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(13832, 9704, 132)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(4765, 1671, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2224, 328, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1149, 69, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(615, 16, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(332, 4, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(181, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(98, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(53, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(29, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(16, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(5, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0293 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  53/1024         2544/49152    ( 5.2%) 
+brushes               1299/8192        15588/98304    (15.9%) 
+brushsides           14525/65536      116200/524288   (22.2%) 
+planes               16536/65536      330720/1310720  (25.2%) 
+vertexes             11285/65536      135420/786432   (17.2%) 
+nodes                 1148/65536       36736/2097152  ( 1.8%) 
+texinfos               616/12288       44352/884736   ( 5.0%) 
+texdata                 50/2048         1600/65536    ( 2.4%) 
+dispinfos               31/0            5456/0        ( 0.0%) 
+disp_verts             831/0           16620/0        ( 0.0%) 
+disp_tris             1088/0            2176/0        ( 0.0%) 
+disp_lmsamples      192912/0          192912/0        ( 0.0%) 
+faces                 6100/65536      341600/3670016  ( 9.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4775/65536      267400/3670016  ( 7.3%) 
+leaves                1202/65536       38464/2097152  ( 1.8%) 
+leaffaces             8306/65536       16612/131072   (12.7%) 
+leafbrushes           2384/65536        4768/131072   ( 3.6%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            49288/512000     197152/2048000  ( 9.6%) 
+edges                28854/256000     115416/1024000  (11.3%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            808/32768        8080/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         14286/65536       28572/131072   (21.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     9590448/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       52721/16777216 ( 0.3%) 
+entdata               [variable]      225852/393216   (57.4%) 
+LDR ambient table     1202/65536        4808/262144   ( 1.8%) 
+HDR ambient table     1202/65536        4808/262144   ( 1.8%) 
+LDR leaf ambient      5449/65536      152572/1835008  ( 8.3%) 
+HDR leaf ambient      1202/65536       33656/1835008  ( 1.8%) 
+occluders                2/0              80/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/922      ( 0.1%) 
+pakfile               [variable]      214918/0        ( 0.0%) 
+physics               [variable]      507922/4194304  (12.1%) 
+physics terrain       [variable]        4795/1048576  ( 0.5%) 
+
+Level flags = 0
+
+Total triangle count: 17732
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+43 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (520612 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1423 texinfos to 670
+Reduced 64 texdatas to 51 (1663 bytes to 1157)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+5 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 409 portalclusters
+1472 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 95 visible clusters (0.07%)
+Total clusters visible: 135733
+Average clusters visible: 331
+Building PAS...
+Average clusters audible: 408
+visdatasize:45407  compressed from 45808
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 minutes, 28 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+6190 faces
+30 degenerate faces
+979600 square feet [141062496.00 square inches]
+31 Displacements
+538128 Square Feet [77490472.00 Square Inches]
+6160 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+107826 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 26392510, max 1616
+transfer lists: 201.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(601948, 584112, 7525)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(85060, 82558, 905)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(18468, 12924, 135)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6356, 2224, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2965, 436, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1531, 91, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(819, 21, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(443, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(241, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(131, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(71, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0288 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  53/1024         2544/49152    ( 5.2%) 
+brushes               1335/8192        16020/98304    (16.3%) 
+brushsides           14750/65536      118000/524288   (22.5%) 
+planes               16612/65536      332240/1310720  (25.3%) 
+vertexes             11484/65536      137808/786432   (17.5%) 
+nodes                 1083/65536       34656/2097152  ( 1.7%) 
+texinfos               670/12288       48240/884736   ( 5.5%) 
+texdata                 51/2048         1632/65536    ( 2.5%) 
+dispinfos               31/0            5456/0        ( 0.0%) 
+disp_verts             831/0           16620/0        ( 0.0%) 
+disp_tris             1088/0            2176/0        ( 0.0%) 
+disp_lmsamples      192912/0          192912/0        ( 0.0%) 
+faces                 6190/65536      346640/3670016  ( 9.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             4905/65536      274680/3670016  ( 7.5%) 
+leaves                1137/65536       36384/2097152  ( 1.7%) 
+leaffaces             8486/65536       16972/131072   (12.9%) 
+leafbrushes           2413/65536        4826/131072   ( 3.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges            50296/512000     201184/2048000  ( 9.8%) 
+edges                29618/256000     118472/1024000  (11.6%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            824/32768        8240/327680   ( 2.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         14562/65536       29124/131072   (22.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     9586224/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       45407/16777216 ( 0.3%) 
+entdata               [variable]      229436/393216   (58.3%) 
+LDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+HDR ambient table     1137/65536        4548/262144   ( 1.7%) 
+LDR leaf ambient      5030/65536      140840/1835008  ( 7.7%) 
+HDR leaf ambient      1137/65536       31836/1835008  ( 1.7%) 
+occluders                2/0              80/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/920      ( 0.1%) 
+pakfile               [variable]      214918/0        ( 0.0%) 
+physics               [variable]      520612/4194304  (12.4%) 
+physics terrain       [variable]        4795/1048576  ( 0.5%) 
+
+Level flags = 0
+
+Total triangle count: 18040
+Writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+42 seconds elapsed
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 3210 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (2) (520612 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1423 texinfos to 670
+Reduced 64 texdatas to 51 (1663 bytes to 1157)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 409 portalclusters
+1472 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 95 visible clusters (0.07%)
+Total clusters visible: 135733
+Average clusters visible: 331
+Building PAS...
+Average clusters audible: 408
+visdatasize:45407  compressed from 45808
+writing c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+2 minutes, 19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+6190 faces
+30 degenerate faces
+979600 square feet [141062496.00 square inches]
+31 Displacements
+538128 Square Feet [77490472.00 Square Inches]
+6160 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+107826 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 26392488, max 1616
+transfer lists: 201.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(601935, 584099, 7525)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(85057, 82556, 905)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(18468, 12923, 135)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(6355, 2224, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2965, 436, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1531, 91, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(819, 21, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(443, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(241, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(131, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(71, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(39, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(21, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(12, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(6, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(2, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0385 sec>
+0...1...2...3...4...5...6...7...8
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1762 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (524331 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1487 texinfos to 701
+Reduced 64 texdatas to 51 (1663 bytes to 1157)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+4 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+1028 portalclusters
+4031 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4.
