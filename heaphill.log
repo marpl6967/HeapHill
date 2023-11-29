@@ -21757,3 +21757,58 @@ reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
  435 portalclusters
 1667 numportals
 0...1...2...3...4...5...6...7...8...9...100...1...2...3...
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\materials
+Loading C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.vmf
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl2\gameinfo.txt
+Patching WVT material: maps/heaphill/nature/blendrocksand005a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-7680.5 9103.0 -1920.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_GRATE CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_GRATE 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_GRATE 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_GRATE 
+Candidate brush IDs: Brush 551303: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1100 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_01*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (4) (761011 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3101 texinfos to 1941
+Reduced 76 texdatas to 61 (1989 bytes to 1388)
+Writing C:\Users\marpl\OneDrive\Desktop\HeapHill\HeapHill\heaphill.bsp
+8 seconds elapsed
+
+
+
+12 threads
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.bsp
+reading c:\users\marpl\onedrive\desktop\heaphill\heaphill\heaphill.prt
+ 444 portalclusters
+1709 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4.
